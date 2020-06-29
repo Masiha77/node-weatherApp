@@ -1,0 +1,36 @@
+h1{
+    color:grey rebeccapurple;
+    font-family: arial;
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 0 16px
+}
+
+footer{
+      color: red;
+      border-top: solid black;
+      margin-top: 10px;
+}
+
+header{
+    margin-top: 16px;
+    margin-bottom: 40px;
+  }
+
+h1{
+    font-size: 60px;
+}
+
+header a{
+    color: #888888;
+    margin-right: 16px;
+    
+}
+
+.portrait{
+    width: 250px;
+}
+/* img{
+    width: 250px;
+
+} */
